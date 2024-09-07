@@ -1,3 +1,6 @@
+**Simple Band Name Generator.**
+
+
 **Overview:**
 This is the day 1 project of the course 100 Days of Code: The Complete Python Pro Bootcamp.
 
