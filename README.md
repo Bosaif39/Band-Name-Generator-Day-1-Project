@@ -10,7 +10,7 @@ It takes the user input a pet name and a city name to create a band name. Nothin
 
 **Example**
 
-![alt text](https://github.com/Bosaif39/example-pics/blob/main/D1.png?raw=true)
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_1.png?raw=true)
 
 **Requirements:**
 
