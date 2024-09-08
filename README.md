@@ -8,5 +8,10 @@ This is the day 1 project of the course 100 Days of Code: The Complete Python Pr
 
 It takes the user input a pet name and a city name to create a band name. Nothing fancy.
 
+**Example**
+![alt text]()
+
+
+
 **Requirements:**
 Python 3.x
