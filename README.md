@@ -15,4 +15,4 @@ It takes the user input a pet name and a city name to create a band name. Nothin
 
 ## **Requirements:**
 
-Python 3.x
+* Python 3.x
