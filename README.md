@@ -2,8 +2,9 @@
 
 ## **Overview:**
 
-This is a project from Day 1 of the course "100 Days of Code: The Complete Python Pro Bootcamp." It is a simple program designed to generate a band name based on user input.
+This is a project from Day 1 of the course "100 Days of Code: The Complete Python Pro Bootcamp."
 
+It is a simple program designed to generate a band name based on user input.
 
 ## **How It Works:**  
 
