@@ -3,6 +3,3 @@ city=input("What's the name of the city you grew up in?\n")
 pet=input("What's your pet's name?\n")
 print("Your band's name could be "+city+" "+pet+"\n\n")
                                                 
-
-
-original turn carpet joy exercise mass impulse shiver garage plate lake miss skill target gossip valid history decide vendor canyon traffic wagon valid book roast
